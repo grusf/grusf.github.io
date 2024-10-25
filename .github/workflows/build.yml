@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 jobs:
   build:
@@ -28,8 +29,10 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
     steps:
       - name: Deploy GitHub Pages site
         uses: actions/deploy-pages@v4.0.5
         with:
-          token: ${{ secrets.SECRET }}
+          token: ${{ secrets.GITHUB_TOKEN }}
