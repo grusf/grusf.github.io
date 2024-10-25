@@ -1,5 +1,6 @@
 ---
 title: Gruppo Universitari San Frediano
+body-title: Gruppo Universitari<br>San Frediano
 description: Il GrUSF è un’associazione indipendente di studenti dell’Università di Pisa che organizza eventi, formativi e di svago, in un clima di amicizia e accoglienza.
 ---
 
