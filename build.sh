@@ -29,5 +29,17 @@ cp stylesheet.css out/
 
 # redirect
 
-ln -sf qr.html out/qr
-ln -sf cene-del-sabato.html out/cene-della-domenica.html
+redirect() {
+    cat > out/$1 <<EOF
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://grusf.it/$2</title>
+<meta http-equiv="refresh" content="0; URL=https://grusf.it/$2">
+<link rel="canonical" href="https://grusf.it/$2">
+EOF
+}
+
+redirect cene-della-domenica.html cene-del-sabato.html
+
+# su GitHub pages non serve (e non funziona)
+# ln -s qr.html out/qr
