@@ -29,6 +29,9 @@ cp stylesheet.css out/
 
 # redirect
 
+# su GitHub pages non serve (e non funziona)
+# ln -s qr.html out/qr
+
 redirect() {
     cat > out/$1 <<EOF
 <!DOCTYPE html>
@@ -40,6 +43,3 @@ EOF
 }
 
 redirect cene-della-domenica.html cene-del-sabato.html
-
-# su GitHub pages non serve (e non funziona)
-# ln -s qr.html out/qr
