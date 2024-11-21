@@ -8,7 +8,7 @@ di studenti dell'Università di Pisa** che organizza eventi, formativi e di
 svago.
 
 <nav class="link-boxes">
-[*Domande per la dott.sa Laura Capantini*](https://forms.gle/JmPoChC1jnedoju5A)
+[**Domande per la dott.sa Laura Capantini**](https://forms.gle/JmPoChC1jnedoju5A)
 [Presentazione del gruppo](/)
 [Social e contatti](/link.html)
 </nav>
