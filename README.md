@@ -4,7 +4,7 @@
 
 Per fare un cambiamento a una pagina esistente, basta modificare il file corrispondente nella cartella [pages](pages).
 
-*Nota: di default GitHub cerca di renderizzare i file markdown. Dopo aver aperto il file, si consiglia di cliccare su `Code` in alto a destra per visualizzare il testo originale.*
+*Nota: di default GitHub cerca di renderizzare i file markdown. Dopo aver aperto il file, si consiglia di cliccare su `Code` in alto a sinistra per visualizzare il testo originale.*
 
 I file hanno due parti:
 
