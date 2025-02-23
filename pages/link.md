@@ -20,5 +20,5 @@ Altro:
 - Gruppo giochi da tavolo: [I Dadi di Sanfre](https://t.me/+MZ6BNROlcftkY2U0)
 
 Se vuoi contattarci in privato, puoi scrivere a
-[Benedetta](https://t.me/benedetta_pollini) o
-[Marco](https://t.me/marco_argento).
+[Mathias](https://t.me/m_caccia_otazu) o
+[Daniele](https://t.me/danny_boodman).
