@@ -10,4 +10,5 @@ svago.
 <nav class="link-boxes">
 [Presentazione del gruppo](/)
 [Social e contatti](/link.html)
+[Corso di Primo Soccorso](https://forms.gle/4AEDngfLRd4mEJaw7)
 </nav>
