@@ -10,5 +10,5 @@ svago.
 <nav class="link-boxes">
 [Presentazione del gruppo](/)
 [Social e contatti](/link.html)
-[Corso di Primo Soccorso](https://forms.gle/4AEDngfLRd4mEJaw7)
+[Braciata 1 maggio (iscrizioni entro 23/04)](https://forms.gle/dY3mwMDGnZus94Wn9)
 </nav>
