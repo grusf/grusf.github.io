@@ -72,6 +72,6 @@ Il sito è generato dallo script [build.sh](build.sh), convertendo i file markdo
 
 Eseguendo lo script in locale verrà generata una cartella `out` con l'HTML generato e una copia di [res](pages/res).
 
-Sul repo è configuraa una GitHub Action che compila e pubblica il sito ad ogni commit.
+Sul repo è configurata una GitHub Action che compila e pubblica il sito ad ogni commit.
 
 GitHub pages in automatico fa redirect da `grusf.it/xxx` a `grusf.it/xxx.html`. In caso di cambiamenti del servizio di hosting, assicurarsi di far funzionare [grusf.it/qr](https://grusf.it/qr).
