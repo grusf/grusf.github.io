@@ -21,4 +21,4 @@ Altro:
 
 Se vuoi contattarci in privato, puoi scrivere a
 [Mathias](https://t.me/m_caccia_otazu) o
-[Daniele](https://t.me/danny_boodman).
+[Daniele](https://t.me/daniele_giuffrida).
