@@ -18,6 +18,7 @@ Altro:
 
 - Gruppo mensa: [I Mensatori](https://t.me/+vnPecACt61UyMWU0)
 - Gruppo giochi da tavolo: [I Dadi di Sanfre](https://t.me/+MZ6BNROlcftkY2U0)
+- Coro della Chiesa Universitaria di San Frediano: [GrAL](https://www.instagram.com/coro_san_frediano)
 
 Se vuoi contattarci in privato, puoi scrivere a
 [Daniele](https://t.me/daniele_giuffrida) o [Samuele](https://t.me/Samughisu).
