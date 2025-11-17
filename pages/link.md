@@ -20,5 +20,4 @@ Altro:
 - Gruppo giochi da tavolo: [I Dadi di Sanfre](https://t.me/+MZ6BNROlcftkY2U0)
 
 Se vuoi contattarci in privato, puoi scrivere a
-[Mathias](https://t.me/m_caccia_otazu) o
-[Daniele](https://t.me/daniele_giuffrida).
+[Daniele](https://t.me/daniele_giuffrida) o [Samuele](https://t.me/Samughisu).
