@@ -82,4 +82,5 @@ cattolici 😇
 <br>
 
 Non vedi l'ora di partecipare? Trovi i prossimi eventi sui
-[nostri social](link.html). **Ti aspettiamo!** 👋
+[nostri social](link.html). 
+**Ti aspettiamo!** 👋
