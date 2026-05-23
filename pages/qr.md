@@ -10,5 +10,5 @@ svago.
 <nav class="link-boxes">
 [Presentazione del gruppo](/)
 [Social e contatti](/link.html)
-[Braciata 1 maggio](https://forms.gle/EvmRXapXwt4q3afA6)
+[Festa di fine anno!](https://forms.gle/Anh3dEQ6tCCtPG6J6)
 </nav>
