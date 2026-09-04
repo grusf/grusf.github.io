@@ -10,5 +10,4 @@ svago.
 <nav class="link-boxes">
 [Presentazione del gruppo](/)
 [Social e contatti](/link.html)
-[Festa di fine anno!](https://forms.gle/Anh3dEQ6tCCtPG6J6)
 </nav>
