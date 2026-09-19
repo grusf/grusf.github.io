@@ -8,6 +8,7 @@ di studenti dell'Università di Pisa** che organizza eventi formativi e di
 svago.
 
 <nav class="link-boxes">
+[**Iscrizioni Festa di Inizio Anno**] (https://forms.gle/qWneTyHPGncGxfRt8)
 [Presentazione del gruppo](/)
 [Social e contatti](/link.html)
 </nav>
